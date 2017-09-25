@@ -1,3 +1,5 @@
+function func()
+{
 var a,b,c
 a=0
 b=1
@@ -15,4 +17,5 @@ while(c<n)
 }
 for(j=0;j<i;j++)
 console.log(a1[j])
-
+}
+module.exports=func
