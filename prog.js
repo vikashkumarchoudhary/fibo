@@ -15,7 +15,8 @@ while(c<n)
  c=a+b
  i++
 }
-for(j=0;j<i;j++)
-console.log(a1[j])
+return(a1)
 }
+var k=new Array()
+k=func()
 module.exports=func
